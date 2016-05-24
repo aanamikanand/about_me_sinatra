@@ -1,0 +1,42 @@
+
+
+.myopqimg {
+	opacity: 0.30;
+    height: 100%;
+    position: absolute;
+    min-height: 600px;
+    margin-left: -150px;
+}
+
+#float_left{
+	float:left;
+}
+
+#div_right {
+	float:right;
+	margin-right: 100px;
+	margin-top: 100px;
+}
+
+#para_intro {
+	text-align: center;
+	color:#ffcc00;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 30px;
+	font-weight: bold;
+}
+
+#myimg {
+	height: 300px;
+	width: 400px;
+}
+
+#aboutme {
+	margin-left: 200px;
+	margin-top: 200px;
+	font-size: 45px;
+}
+
+h2 {
+	margin-left: 200px;
+}
